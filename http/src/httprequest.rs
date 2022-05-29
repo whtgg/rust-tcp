@@ -6,7 +6,7 @@ use std::collections::HashMap;
  * @Autor: wht
  * @Date: 2022-05-27 22:47:09
  * @LastEditors: wht
- * @LastEditTime: 2022-05-27 23:59:48
+ * @LastEditTime: 2022-05-28 12:28:51
  */
 #[derive(Debug,PartialEq)]
 pub enum  Method {
